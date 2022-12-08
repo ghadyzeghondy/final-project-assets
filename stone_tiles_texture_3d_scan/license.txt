@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stone Tiles Texture 3D scan
+* source:	https://sketchfab.com/3d-models/stone-tiles-texture-3d-scan-b2cfb6f7c23d4479a4d0dcb7b20fd202
+* author:	grafi (https://sketchfab.com/zdenkoroman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stone Tiles Texture 3D scan" (https://sketchfab.com/3d-models/stone-tiles-texture-3d-scan-b2cfb6f7c23d4479a4d0dcb7b20fd202) by grafi (https://sketchfab.com/zdenkoroman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,229 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 14239,
+      "max": [
+        0.5544959902763367,
+        0.23960599303245544,
+        0.4318549931049347
+      ],
+      "min": [
+        -0.7515829801559448,
+        0.20724700391292572,
+        -0.675620973110199
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 170868,
+      "componentType": 5126,
+      "count": 14239,
+      "max": [
+        0.9979854226112366,
+        0.7192600965499878,
+        0.9999520182609558
+      ],
+      "min": [
+        -0.9981392025947571,
+        -1.0,
+        -0.9999337792396545
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 14239,
+      "max": [
+        1.0,
+        0.9996153116226196,
+        0.86602783203125,
+        -1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9996293187141418,
+        -0.810004472732544,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 14239,
+      "max": [
+        0.9990230202674866,
+        0.9326170086860657
+      ],
+      "min": [
+        0.0009769999887794256,
+        0.0009769999887794256
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 59997,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "grafi (https://sketchfab.com/zdenkoroman)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/stone-tiles-texture-3d-scan-b2cfb6f7c23d4479a4d0dcb7b20fd202",
+      "title": "Stone Tiles Texture 3D scan"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 239988,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 113912,
+      "byteOffset": 239988,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 341736,
+      "byteOffset": 353900,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 227824,
+      "byteOffset": 695636,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 923460,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_0_baseColor.png"
+    },
+    {
+      "uri": "textures/material_0_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material_0",
+      "normalTexture": {
+        "index": 1,
+        "scale": 0.5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        3.5707495248565405e-32,
+        -1.6081226229577292e-16,
+        0.0,
+        2.465190328815662e-32,
+        -1.0,
+        0.0,
+        0.0,
+        -1.6081226229577292e-16,
+        0.0,
+        -1.0,
+        0.0,
+        -1.3877787807814457e-17,
+        0.10154323279857644,
+        -0.3453097641468048,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "export_low_poly.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
