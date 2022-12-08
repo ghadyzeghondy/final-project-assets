@@ -1,0 +1,11 @@
+Model Information:
+* title:	Planetary Gearbox
+* source:	https://sketchfab.com/3d-models/planetary-gearbox-7ea57b02a5bc40c2adaeffcf795b4202
+* author:	Gokul_Ranjeet (https://sketchfab.com/Gokul_Ranjeet)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Planetary Gearbox" (https://sketchfab.com/3d-models/planetary-gearbox-7ea57b02a5bc40c2adaeffcf795b4202) by Gokul_Ranjeet (https://sketchfab.com/Gokul_Ranjeet) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
