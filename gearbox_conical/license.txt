@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gearbox (Conical)
+* source:	https://sketchfab.com/3d-models/gearbox-conical-60f023924ee0456daa758eb590b6064b
+* author:	T-FLEX CAD ST (Free) (https://sketchfab.com/tflexcad)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gearbox (Conical)" (https://sketchfab.com/3d-models/gearbox-conical-60f023924ee0456daa758eb590b6064b) by T-FLEX CAD ST (Free) (https://sketchfab.com/tflexcad) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
