@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gate_Stage_Open v2
+* source:	https://sketchfab.com/3d-models/gate-stage-open-v2-29c60456f7d14db1b65167a306ac14ae
+* author:	koppany3dwork (https://sketchfab.com/koppany3dwork)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gate_Stage_Open v2" (https://sketchfab.com/3d-models/gate-stage-open-v2-29c60456f7d14db1b65167a306ac14ae) by koppany3dwork (https://sketchfab.com/koppany3dwork) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
