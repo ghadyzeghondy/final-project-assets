@@ -1,0 +1,338 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 21444,
+      "max": [
+        3.8299999237060547,
+        -0.6197999715805054,
+        0.08020000159740448
+      ],
+      "min": [
+        -1.8589600324630737,
+        -2.7121999263763428,
+        -1.2204999923706055
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 257328,
+      "componentType": 5126,
+      "count": 21444,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 21444,
+      "max": [
+        1.0,
+        0.9999298453330994,
+        0.9998721480369568,
+        1.0
+      ],
+      "min": [
+        -0.9998044967651367,
+        -1.0,
+        -0.9999961853027344,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 21444,
+      "max": [
+        0.9629619717597961,
+        0.9997950196266174
+      ],
+      "min": [
+        0.00020500000391621143,
+        0.00020500000391621143
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 125004,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 514656,
+      "componentType": 5126,
+      "count": 13720,
+      "max": [
+        -0.16433300077915192,
+        -0.9028000235557556,
+        -0.18389999866485596
+      ],
+      "min": [
+        -1.8443599939346313,
+        -2.4291999340057373,
+        -1.210800051689148
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 679296,
+      "componentType": 5126,
+      "count": 13720,
+      "max": [
+        0.8408209085464478,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 171552,
+      "componentType": 5126,
+      "count": 13720,
+      "max": [
+        0.6026399731636047,
+        0.7885119915008545
+      ],
+      "min": [
+        0.00020500000391621143,
+        0.5109140276908875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 500016,
+      "componentType": 5125,
+      "count": 80640,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Silver10211 (https://sketchfab.com/Silver10211)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/car-muffler-exhaust-2c859b615d024e968e3196f5c631f91c",
+      "title": "Car muffler exhaust"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 822576,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 281312,
+      "byteOffset": 822576,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 843936,
+      "byteOffset": 1103888,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 343104,
+      "byteOffset": 1947824,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2290928,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/material_normal.jpeg"
+    },
+    {
+      "uri": "textures/hole_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material",
+      "normalTexture": {
+        "index": 1,
+        "scale": 0.019950568192182112
+      },
+      "occlusionTexture": {
+        "index": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.20863687014525575,
+          0.20863687014525575,
+          0.20863687014525575,
+          1.0
+        ],
+        "metallicRoughnessTexture": {
+          "index": 0
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "hole",
+      "occlusionTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.016789177993879932,
+          0.016789177993879932,
+          0.016789177993879932,
+          1.0
+        ],
+        "metallicRoughnessTexture": {
+          "index": 2
+        },
+        "roughnessFactor": 0.6869830839853426
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.828568672208042e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        3.828568672208042e-16,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        4.930380657631324e-32,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "exhaust3.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
