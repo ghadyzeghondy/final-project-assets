@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple Wheel Rig with Hydraulics
+* source:	https://sketchfab.com/3d-models/simple-wheel-rig-with-hydraulics-6d3a04bb390d4b0d9bd7660b38190f69
+* author:	3DHaupt (https://sketchfab.com/dennish2010)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple Wheel Rig with Hydraulics" (https://sketchfab.com/3d-models/simple-wheel-rig-with-hydraulics-6d3a04bb390d4b0d9bd7660b38190f69) by 3DHaupt (https://sketchfab.com/dennish2010) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
