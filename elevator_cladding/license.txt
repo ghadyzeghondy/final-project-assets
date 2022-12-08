@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elevator Cladding
+* source:	https://sketchfab.com/3d-models/elevator-cladding-ce9262c304e0417682ffe5544f785f3a
+* author:	DarrenFalconer (https://sketchfab.com/dfalconer84)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elevator Cladding" (https://sketchfab.com/3d-models/elevator-cladding-ce9262c304e0417682ffe5544f785f3a) by DarrenFalconer (https://sketchfab.com/dfalconer84) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
