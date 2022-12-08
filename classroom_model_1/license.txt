@@ -1,0 +1,11 @@
+Model Information:
+* title:	Classroom Model 1
+* source:	https://sketchfab.com/3d-models/classroom-model-1-cb1e8bdcfe154c7b9b7d8cf5f49db672
+* author:	vfx.raizyel (https://sketchfab.com/vfx.raizyel)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Classroom Model 1" (https://sketchfab.com/3d-models/classroom-model-1-cb1e8bdcfe154c7b9b7d8cf5f49db672) by vfx.raizyel (https://sketchfab.com/vfx.raizyel) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
