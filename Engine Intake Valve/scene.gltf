@@ -1,0 +1,146 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3213,
+      "max": [
+        30.48625946044922,
+        117.6500015258789,
+        30.5
+      ],
+      "min": [
+        0.01374073326587677,
+        -6.938893903907228e-15,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 38556,
+      "componentType": 5126,
+      "count": 3213,
+      "max": [
+        0.9999985694885254,
+        1.0,
+        0.9999999403953552
+      ],
+      "min": [
+        -0.999900758266449,
+        -1.0,
+        -0.9999986290931702
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 18036,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "tangentinnovationgroup (https://sketchfab.com/tangentinnovations)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/engine-intake-valve-2a5d1d71a8ac4824953127a8d35c33ca",
+      "title": "Engine Intake Valve"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 72144,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 77112,
+      "byteOffset": 72144,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 149256,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Scene_-_Root",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.999932050704956,
+        0.011657736264169216,
+        3.4558991810860676e-18,
+        0.0,
+        -0.011652952060103416,
+        0.9995217323303223,
+        0.028644016012549622,
+        0.0,
+        0.0003339243703521788,
+        -0.028642069548368676,
+        0.9995896816253662,
+        0.0,
+        0.6814283728599548,
+        -43.28780364990233,
+        -75.75368499755861,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "45dd21a9b0a04c77b9ce710cd380aa9b.stl.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

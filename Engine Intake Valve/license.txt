@@ -1,0 +1,11 @@
+Model Information:
+* title:	Engine Intake Valve
+* source:	https://sketchfab.com/3d-models/engine-intake-valve-2a5d1d71a8ac4824953127a8d35c33ca
+* author:	tangentinnovationgroup (https://sketchfab.com/tangentinnovations)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Engine Intake Valve" (https://sketchfab.com/3d-models/engine-intake-valve-2a5d1d71a8ac4824953127a8d35c33ca) by tangentinnovationgroup (https://sketchfab.com/tangentinnovations) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
