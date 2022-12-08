@@ -1,0 +1,583 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 761,
+      "max": [
+        1.6427550315856934,
+        1.6427546739578247,
+        0.19749413430690765
+      ],
+      "min": [
+        -1.6427547931671143,
+        -1.642755389213562,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 9132,
+      "componentType": 5126,
+      "count": 761,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 761,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 761,
+      "max": [
+        0.9998999238014221,
+        0.9999000430107117
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6088,
+      "componentType": 5126,
+      "count": 761,
+      "max": [
+        0.9998999238014221,
+        0.9999000430107117
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3000,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18264,
+      "componentType": 5126,
+      "count": 680,
+      "max": [
+        0.9162197113037109,
+        0.9162193536758423,
+        0.5746525526046753
+      ],
+      "min": [
+        -0.9162195920944214,
+        -0.9162200093269348,
+        0.19749413430690765
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 26424,
+      "componentType": 5126,
+      "count": 680,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -6.103781925048679e-05
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12176,
+      "componentType": 5126,
+      "count": 680,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12000,
+      "componentType": 5125,
+      "count": 3234,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 34584,
+      "componentType": 5126,
+      "count": 6280,
+      "max": [
+        0.4815414845943451,
+        0.5360187888145447,
+        0.84814453125
+      ],
+      "min": [
+        -0.5444790124893188,
+        -0.5078193545341492,
+        0.5681365728378296
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 109944,
+      "componentType": 5126,
+      "count": 6280,
+      "max": [
+        1.0,
+        1.0,
+        0.9101247787475586
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.4692126512527466
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 17616,
+      "componentType": 5126,
+      "count": 6280,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24936,
+      "componentType": 5125,
+      "count": 37350,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 185304,
+      "componentType": 5126,
+      "count": 5220,
+      "max": [
+        0.9376541376113892,
+        2.5816433429718018,
+        1.0287220478057861
+      ],
+      "min": [
+        -0.7963711023330688,
+        -2.7697594165802,
+        -1.1450227499008179
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 247944,
+      "componentType": 5126,
+      "count": 5220,
+      "max": [
+        0.999992847442627,
+        0.9994516372680664,
+        1.0
+      ],
+      "min": [
+        -0.999993085861206,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 67856,
+      "componentType": 5126,
+      "count": 5220,
+      "max": [
+        1.0000003576278687,
+        1.0000001192092896
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 174336,
+      "componentType": 5125,
+      "count": 20322,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "the_86_guy (https://sketchfab.com/the_86_guy)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/brake-disk-fde1ae699c5d4d4a853e2f8a66cc7cf3",
+      "title": "Brake Disk"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 255624,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 109616,
+      "byteOffset": 255624,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 310584,
+      "byteOffset": 365240,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12176,
+      "byteOffset": 675824,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 688000,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Disc_baseColor.png"
+    },
+    {
+      "uri": "textures/Disc_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Disc",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "roughnessFactor": 0.3057187068687716
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Wheel_hub",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "roughnessFactor": 0.4936355787412825
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Bolt",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.263273,
+          0.263273,
+          0.263273,
+          1.0
+        ],
+        "roughnessFactor": 0.32339073016799513
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Caliper",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Rotor_Disc_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rotor_Wheel hub_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rotor_Bolt_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12
+          },
+          "indices": 13,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Caliper_Caliper_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 15,
+            "POSITION": 14,
+            "TEXCOORD_0": 16
+          },
+          "indices": 17,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.0014155248645693064,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.143096593148501e-19,
+        -0.0014155248645693064,
+        0.0,
+        0.0,
+        0.0014155248645693064,
+        3.143096593148501e-19,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "4cc2da17023541099b4e38c55d03c35b.fbx"
+    },
+    {
+      "children": [
+        3,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        99.9999999999999,
+        4.371138828673792e-06,
+        0.0,
+        0.0,
+        -4.371138828673792e-06,
+        99.9999999999999,
+        0.0,
+        -1.080334186553955e-05,
+        5.20726534887217e-05,
+        -19.443693161010742,
+        1.0
+      ],
+      "name": "Rotor"
+    },
+    {
+      "mesh": 0,
+      "name": "Rotor_Disc_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Rotor_Wheel hub_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Rotor_Bolt_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        55.57770538330078,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        55.577705383300724,
+        2.4293788575470595e-06,
+        0.0,
+        0.0,
+        -1.2351912327634748e-06,
+        28.25787925720212,
+        0.0,
+        137.63323974609375,
+        6.636038303375244,
+        -8.663501739501953,
+        1.0
+      ],
+      "name": "Caliper"
+    },
+    {
+      "mesh": 3,
+      "name": "Caliper_Caliper_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
