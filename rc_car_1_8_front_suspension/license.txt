@@ -1,0 +1,11 @@
+Model Information:
+* title:	RC Car 1 8 Front Suspension
+* source:	https://sketchfab.com/3d-models/rc-car-1-8-front-suspension-d4ea189863c34f3bba4d57e1b82c3610
+* author:	jcvon (https://sketchfab.com/jcvon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RC Car 1 8 Front Suspension" (https://sketchfab.com/3d-models/rc-car-1-8-front-suspension-d4ea189863c34f3bba4d57e1b82c3610) by jcvon (https://sketchfab.com/jcvon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
