@@ -1,0 +1,11 @@
+Model Information:
+* title:	Camshaft Box
+* source:	https://sketchfab.com/3d-models/camshaft-box-d7d58bd9804446599adefd8cc1a172bd
+* author:	Connections XR (https://sketchfab.com/connectionsxr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Camshaft Box" (https://sketchfab.com/3d-models/camshaft-box-d7d58bd9804446599adefd8cc1a172bd) by Connections XR (https://sketchfab.com/connectionsxr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
