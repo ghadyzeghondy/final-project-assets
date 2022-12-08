@@ -1,0 +1,11 @@
+Model Information:
+* title:	Art frame
+* source:	https://sketchfab.com/3d-models/art-frame-ec04d1c7db2e442e89e243f4b39d458c
+* author:	rigart (https://sketchfab.com/rigart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Art frame" (https://sketchfab.com/3d-models/art-frame-ec04d1c7db2e442e89e243f4b39d458c) by rigart (https://sketchfab.com/rigart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
