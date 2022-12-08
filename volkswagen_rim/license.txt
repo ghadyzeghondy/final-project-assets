@@ -1,0 +1,11 @@
+Model Information:
+* title:	Volkswagen Rim
+* source:	https://sketchfab.com/3d-models/volkswagen-rim-c5798e6b29d046c798c38647455dfab2
+* author:	TGRRRR (https://sketchfab.com/Tgrrrr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Volkswagen Rim" (https://sketchfab.com/3d-models/volkswagen-rim-c5798e6b29d046c798c38647455dfab2) by TGRRRR (https://sketchfab.com/Tgrrrr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
