@@ -1,0 +1,11 @@
+Model Information:
+* title:	Module No Roof
+* source:	https://sketchfab.com/3d-models/module-no-roof-46c14f51423e45648ee55f59f83aa3d9
+* author:	mco60 (https://sketchfab.com/mco60)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Module No Roof" (https://sketchfab.com/3d-models/module-no-roof-46c14f51423e45648ee55f59f83aa3d9) by mco60 (https://sketchfab.com/mco60) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
